@@ -17,7 +17,3 @@
 [AB test](https://github.com/van1lka/Portfolio/blob/c81c544184f0a6139bf12c95c5f1a9f46c229e3d/Practicum_fin/5e31a726-9723-4a87-b42e-5d2f8291020d_ab_test.ipynb)
 
 Цель исследования — провести оценку результатов A/B-теста. В нашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
-
-
-# Дашборд Tableau
-[Dashboard](https://public.tableau.com/views/Dashboard_16767265676980/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
